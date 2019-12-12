@@ -1,0 +1,54 @@
+
+.container {
+    height: 233px;
+    margin-top: 89px;
+}
+.container-in-form {
+    border: 1px solid gray;
+    width: 50%;
+    height: 50px;
+    border-radius: 50px;
+    text-align: left;
+}
+.my-form {
+    margin-top: 23px;
+}
+.my-form:hover .container-in-form {
+    box-shadow: 0 0 3px grey;
+}
+.svg-container {
+    width: 22px;
+    height: 22px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 15px;
+    margin-right: 10px;
+}
+.input-container {
+    display: inline-block;
+    margin-top: 13px;
+    width: 70%;
+    margin-right: 10px;
+}
+.input {
+    border: none;
+    outline: none;
+
+}
+.keyboard {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.microphone {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+}
